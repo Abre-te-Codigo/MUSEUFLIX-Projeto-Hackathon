@@ -6,5 +6,5 @@ Uma plataforma para divulgar acervos e conteúdos e para professores criarem e c
 - [https://github.com/MuseuFlix](https://github.com/MuseuFlix)
 
 ## Vídeos 
-- [https://youtu.be/I8jdwIxajNs](https://youtu.be/I8jdwIxajNs)
-- [https://youtu.be/25thGIMieB4](https://youtu.be/25thGIMieB4)
+- Pitch [https://youtu.be/I8jdwIxajNs](https://youtu.be/I8jdwIxajNs)
+- Demo [https://youtu.be/25thGIMieB4](https://youtu.be/25thGIMieB4)
